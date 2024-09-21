@@ -1,14 +1,10 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]
 
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)")
 <h1 align="center">Hi 👋, I'm VIVEK JHA</h1>
 <h3 align="center">Skilled SDE | Proficient in DBMS, Web3, and Cybersecurity | Seeking Challenging Roles</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkjhaa&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkjhaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekkjhaa" alt="vivekkjhaa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vivek__kumar_" target="blank"><img src="https://img.shields.io/twitter/follow/vivek__kumar_?logo=twitter&style=for-the-badge" alt="vivek__kumar_" /></a> </p>
+
 
 - 🔭 I’m currently working on **Smart Vision Technology Quality Control using Deep learning**
 
