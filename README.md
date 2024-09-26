@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkjhaa&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkjhaa" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=vivekkjhaa&label=Profile%20views&color=0e75b6&style=flat](https://github.com/Vivekkjhaa/Vivekkjhaa/blob/main/pngwing.com.png)" alt="vivekkjhaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekkjhaa" alt="vivekkjhaa" /></a> </p>
 
