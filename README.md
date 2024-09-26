@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vivek Jha</h1>
 <h3 align="center">Skilled SDE | Proficient in DBMS, Web3, and Cybersecurity </h3>
-<img align="right" alt="coding" width="400" src="[https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif](https://github.com/Vivekkjhaa/Vivekkjhaa/blob/main/pngwing.com.png)">
+<img align="right" alt="coding" width="400" src="https://github.com/Vivekkjhaa/Vivekkjhaa/blob/main/pngwing.com.png">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekkjhaa" alt="vivekkjhaa" /></a> </p>
