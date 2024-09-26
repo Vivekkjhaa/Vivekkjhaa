@@ -1,4 +1,4 @@
-![logo](https://github.com/kshitij730/kshitij730/blob/main/1693856547100.jpeg)
+![logo](https://github.com/Vivekkjhaa/Vivekkjhaa/blob/main/cropped-d781815.jpg)
 
 <h1 align="center">Hi 👋, I'm Vivek Jha</h1>
 <h3 align="center">Skilled SDE | Proficient in DBMS, Web3, and Cybersecurity </h3>
